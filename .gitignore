@@ -1,0 +1,16 @@
+﻿# Visual Studio Code user-specific files
+.vscode/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+
+# Build and output files
+/bin/
+/obj/
+/binlog/
+/packages/
+
+# Unity generated files
+Library/
+Temp/
