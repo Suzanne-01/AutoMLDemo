@@ -1,5 +1,6 @@
 ﻿# Visual Studio Code user-specific files
 .vscode/
+.vs/
 
 # Visual Studio user-specific files
 *.suo
