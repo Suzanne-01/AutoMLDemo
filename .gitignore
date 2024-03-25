@@ -11,6 +11,9 @@
 /binlog/
 /packages/
 
+AutoML Demo/bin/
+AutoML Demo/obj/
+
 # Unity generated files
 Library/
 Temp/
